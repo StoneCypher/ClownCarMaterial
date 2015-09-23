@@ -1,0 +1,14 @@
+
+@import "node_modules/muicss/src/sass/mui/colors";
+
+// customize MUI variables
+$mui-primary-color:       mui-color('purple', '500');
+$mui-primary-color-dark:  mui-color('purple', '700');
+$mui-primary-color-light: mui-color('purple', '100');
+
+$mui-accent-color:        mui-color('green', 'A200');
+$mui-accent-color-dark:   mui-color('green', 'A100');
+$mui-accent-color-light:  mui-color('green', 'A400');
+
+// import MUI email SASS
+@import "node_modules/muicss/src/email/mui-email-inline";

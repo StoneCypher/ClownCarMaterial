@@ -1,0 +1,27 @@
+{
+  "name": "ClownCarMaterial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StoneCypher/ClownCarMaterial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StoneCypher/ClownCarMaterial/issues"
+  },
+  "homepage": "https://github.com/StoneCypher/ClownCarMaterial",
+  "devDependencies": {
+    "fbjs": "^0.2.1",
+    "material-ui": "^0.11.1",
+    "muicss": "^0.1.23",
+    "react": "^0.13.3",
+    "react-dom": "^0.14.0-rc1",
+    "react-tap-event-plugin": "^0.1.8"
+  }
+}
